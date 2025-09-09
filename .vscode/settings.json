@@ -48,4 +48,11 @@
     "scminput": false,
   },
   "livePreview.defaultPreviewPath": "/aula190_site/index.html",
+  "files.associations": {
+    "*.html": "django-html",
+    "*.htm": "django-html"
+},
+"emmet.includeLanguages": {
+    "django-html": "html"
+}
 }
